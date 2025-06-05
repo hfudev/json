@@ -1,0 +1,6 @@
+license: MIT
+repository: "https://github.com/hfudev/json"
+tags:
+  - json
+files:
+  use_gitignore: true
